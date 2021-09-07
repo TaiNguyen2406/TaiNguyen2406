@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nguyễn Duy Tài but you can call me Tai Nguyen, the Vietnam software engineer
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming and I will continue do it forever and ever
+- 📫 Here are my linked in if you want to contact with me: https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-705745172/
